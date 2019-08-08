@@ -1,0 +1,11 @@
+{
+    "name": "Testprosjekt",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "",
+    "files": [
+        "martin.ts",
+    ],
+    "preferredEditor": "tsprj"
+}
